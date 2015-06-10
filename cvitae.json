@@ -1,0 +1,223 @@
+{
+  "personalInfo": {
+    "fullName": "Gustavo Sánchez",
+    "email": "gsanrmz@gmail.com",
+    "avatarUrl": "https://lh3.googleusercontent.com/iB8LuEgvOeFQkeBybKO2CJ26y1nOYJPOLis54Prx6nk=s200-no"
+  },
+  "social": {
+    "github": "tavo-sanchez",
+    "linkedIn": "https://www.linkedin.com/profile/view?id=197037264"
+  },
+  "academic": [
+    {
+      "start": "2008-08-01",
+      "end": "2012-12-17",
+      "school": {
+        "name": "Escuela Superior de Cómputo (ESCOM)",
+        "parentOrganization": "Instituto Politecnico Nacional",
+        "url": "http://www.escom.ipn.mx/"
+      },
+      "degree": "BS in Computer Systems, Engineering",
+      "degreeStatus": "Graduate",
+      "location": "Mexico City"
+    },
+    {
+      "start": "2005-08-01",
+      "end": "2008-07-15",
+      "school": {
+        "name": "CECyT No. 8 'Narciso Bassols'",
+        "url": "www.cecyt8.ipn.mx/"
+      },
+      "degree": "Computer Technician"
+    }
+  ],
+  "experience": [
+    {
+      "start": "2014-11-01",
+      "end": null,
+      "isCurrent": true,
+      "company": {
+        "name": "Arias Information Solutions",
+        "url": "http://www.ariasis.com/",
+        "linkedInUrl": "https://www.linkedin.com/company/arias-information-solutions-llc"
+      },
+      "position": "Software Engineer",
+      "location": "Chicago, IL",
+      "description": "Sub-contractor at Deloitte"
+    },
+    {
+      "start": "2013-11-01",
+      "end": "2014-10-31",
+      "isCurrent": false,
+      "company": {
+        "name": "Praxis",
+        "url": "http://www.praxis.com.mx",
+        "linkedInUrl": "https://www.linkedin.com/company/praxis_2"
+      },
+      "position": "Software Engineer",
+      "location": "Mexico city, Mexico",
+      "description": ""
+    },
+    {
+      "start": "2012-09-01",
+      "end": "2013-10-31",
+      "isCurrent": false,
+      "company": {
+        "name": "Vinco Orbis Proyectos",
+        "url": "http://vincoorbis.com",
+        "linkedInUrl": "https://linkedin.com/company/2511778"
+      },
+      "position": "Web Developer",
+      "location": "Mexico City, Mexico",
+      "description": ""
+    },
+    {
+      "start": "2011-10-01",
+      "end": "2012-02-31",
+      "isCurrent": false,
+      "company": {
+        "name": "Axa Assistance Mexico",
+        "url": "www.axa-assistance.com.mx/",
+        "linkedInUrl": "https://linkedin.com/company/2511778"
+      },
+      "position": "Help Desk",
+      "location": "Mexico City, Mexico",
+      "description": ""
+    }
+  ],
+  "languages": [
+    {
+      "name": "Spanish",
+      "level": "native"
+    },
+    {
+      "name": "English",
+      "level": "intermediate"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend development"
+    },
+    {
+      "name": "Frontend development"
+    },
+    {
+      "name": "Organization and time management"
+    },
+    {
+      "name": "Team player"
+    },
+    {
+      "name": "Self starter"
+    },
+    {
+      "name": "SOAP and RESTful web services"
+    },
+    {
+      "name": "Web systems and enterprise systems development"
+    },
+    {
+      "name": "Open source"
+    },
+    {
+      "name": "Agile methodology"
+    },
+    {
+      "name": "Database design"
+    },
+    {
+      "name": "Version control and branching models"
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Java",
+      "url": "https://java.com/"
+    },
+    {
+      "name": "Groovy",
+      "url": "http://www.groovy-lang.org/"
+    },
+    {
+      "name": "Javascript",
+      "url": "http://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+      "name": "Grails",
+      "url": "https://grails.org/"
+    },
+    {
+      "name": "Spring MCV",
+      "url": "http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html"
+    },
+    {
+      "name": "AngularJS",
+      "url": "http://angularjs.org"
+    },
+    {
+      "name": "jQuery",
+      "url": "https://jquery.com/"
+    },
+    {
+      "name": "HTML",
+      "url": "http://en.wikipedia.org/wiki/HTML"
+    },
+    {
+      "name": "CSS",
+      "url": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets"
+    },
+    {
+      "name": "MySQL",
+      "url": "http://mysql.com/"
+    },
+    {
+      "name": "SQL Server",
+      "url": "http://www.microsoft.com/en-us/server-cloud/products/sql-server/"
+    },
+    {
+      "name": "DB2",
+      "url": "http://www-01.ibm.com/software/data/db2/"
+    },
+    {
+      "name": "mongoDB",
+      "url": "https://www.mongodb.org/"
+    },
+    {
+      "name": "Oracle database 11g",
+      "url": "http://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html"
+    },   
+    {
+      "name": "Git",
+      "url": "http://git-scm.com/"
+    },
+    {
+      "name": "GitHub",
+      "url": "http://github.com/"
+    },
+    {
+      "name": "SVN",
+      "url": "https://subversion.apache.org/"
+    },
+    {
+      "name": "Websphere MQ",
+      "url": "http://www-03.ibm.com/software/products/en/ibm-mq"
+    },
+    {
+      "name": "Weblogic Server",
+      "url": "http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html"
+    },
+    {
+      "name": "Apache Tomcat",
+      "url": "http://tomcat.apache.org/"
+    },
+    {
+      "name": "J2EE",
+      "url": "http://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition"
+    },    
+    {
+      "name": "Maven",
+      "url": "https://maven.apache.org/"
+    }
+  ]
+}
